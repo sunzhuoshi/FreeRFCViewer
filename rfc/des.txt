@@ -1,0 +1,18 @@
+协议描述XML
+	1. 定义原生类型
+		char		
+		unsigned char	同byte
+		byte	
+		string 		netascii terminated by a zero byte
+		int16
+		int32
+		int64
+		uint16
+		uint32
+		uint64
+		float		
+		double	
+		
+		
+		
+		
