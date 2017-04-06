@@ -97,6 +97,8 @@
     <Compile Include="RFCFile.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="res\Saki-NuoveXT-Actions-button-cancel.ico" />
+    <None Include="res\Saki-NuoveXT-Actions-edit-add.ico" />
     <Content Include="RoadMap.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
